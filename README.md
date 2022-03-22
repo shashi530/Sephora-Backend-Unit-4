@@ -25,7 +25,7 @@ Technologies Used for FRONT-END
 Technologies Used for BACK-END
   •	MongoDB
   •	NodeJS
-  •	ExpressJS
+
   
 Tools
   VS Code , Github , Heroku
