@@ -22,9 +22,11 @@ Technologies Used for FRONT-END
   •	Javascript
   •	CSS
   
+  
 Technologies Used for BACK-END
   •	MongoDB
   •	NodeJS
+  •	ExpressJS
 
   
 Tools
